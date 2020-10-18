@@ -1,9 +1,9 @@
 package be.friendbook.filters;
 
-import java.io.IOException;
 import javax.ws.rs.container.ContainerRequestContext;
 import javax.ws.rs.container.ContainerResponseContext;
 import javax.ws.rs.container.ContainerResponseFilter;
+import java.io.IOException;
 
 public class CORSResponseFilter implements ContainerResponseFilter{
 

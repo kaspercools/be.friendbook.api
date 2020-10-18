@@ -1,7 +1,8 @@
 package be.friendbook.repository.converters;
-import java.time.LocalDate;
-import java.sql.Date;
+
 import javax.persistence.AttributeConverter;
+import java.sql.Date;
+import java.time.LocalDate;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

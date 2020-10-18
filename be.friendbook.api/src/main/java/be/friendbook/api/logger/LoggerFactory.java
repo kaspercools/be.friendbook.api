@@ -1,8 +1,8 @@
 package be.friendbook.api.logger;
 
-import java.util.logging.Logger;
 import javax.enterprise.inject.Produces;
 import javax.enterprise.inject.spi.InjectionPoint;
+import java.util.logging.Logger;
 
 
 /**

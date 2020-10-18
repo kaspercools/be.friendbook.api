@@ -1,7 +1,8 @@
 package be.friendbook.repository;
 
-import java.util.Collection;
 import be.friendbook.model.Profile;
+
+import java.util.Collection;
 
 /**
  *

@@ -1,8 +1,8 @@
 package be.friendbook.api;
 
-import be.friendbook.filters.CORSResponseFilter;
-import javax.ws.rs.ApplicationPath;
 import org.glassfish.jersey.server.ResourceConfig;
+
+import javax.ws.rs.ApplicationPath;
 
 /**
  *
